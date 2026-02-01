@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="notes-section-1_1">
+  <title>Section 1.1 Notes</title>
+<page>
+<ul>
+  <li>
+    <p>
+      A <alert>sequence</alert> is a function whose domain is a consecutive set of integers.
+      The elements of the domain are called <alert>indices</alert> while the corresponding elements of the target are called <alert>terms</alert>.
+    </p>
+  </li>
+
+  <li>
+    <p>
+      Examples:
+      <ol>
+        <li>
+          <p workspace="0.5in">
+            <m>f: \{0,1,2\} \to \mathbb{R}</m> given by <m>f_0=20</m>, <m>f_1=30</m>, and <m>f_2=50</m>
+          </p>
+        </li>
+
+        <li>
+          <p workspace="0.5in">
+            <m>f: \{1,2,3,\dots\} \to \mathbb{R}</m> given by <m>f_n = \frac{1}{n^{2}}</m>
+          </p>
+        </li>
+      </ol>
+    </p>
+  </li>
+
+  <li>
+    <p>
+      Properties of Sequences:
+      <ul>
+        <li>
+          <p workspace="1in">
+            Increasing
+          </p>
+        </li>
+
+        <li>
+          <p workspace="1in">
+            Non-decreasing
+          </p>
+        </li>
+
+        <li>
+          <p workspace="1in">
+            Decreasing
+          </p>
+        </li>
+
+        <li>
+          <p workspace="1in">
+            Non-increasing
+          </p>
+        </li>
+      </ul>
+    </p>
+
+    <p />
+    </li>
+</page>
+<page>
+    <li>
+      <p>
+        Special Types of Sequences:
+      </p>
+
+      <p>
+        <ul>
+          <li>
+            <p workspace="2in">
+              Geometric sequences
+            </p>
+          </li>
+
+          <li>
+            <p workspace="2in">
+              Arithmetic sequences
+            </p>
+          </li>
+        </ul>
+      </p>
+    </li>
+  </ul>
+</page>
+</worksheet>

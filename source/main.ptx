@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Human Perspectives in Data Science</title>
+    <title>Discrete Mathematics II</title>
 
 
     <!-- Optional: include frontmatter with author info and date -->
@@ -30,7 +30,7 @@
         </p>
       </introduction>
 
-      <xi:include href="./notes/section1_1.ptx"/>
+      <xi:include href="./notes/section1_1A.ptx"/>
       <xi:include href="./wmd/wmd_ch2.ptx"/>
       
       <!-- etc. -->

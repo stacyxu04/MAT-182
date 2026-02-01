@@ -5,7 +5,7 @@
 
 <ul>
   <li>
-     <p> 
+     <p workspace="2in"> 
         A <term>sequence</term> is a function whose domain is a consecutive set of integers.
         The elements of the domain are called <term>indices</term> while the corresponding elements of the target are called <term>terms</term>.
      </p>
